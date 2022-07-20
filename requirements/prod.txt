@@ -47,8 +47,8 @@ django-environ==0.4.0 --hash=sha256:4189ac034c69a46ba199170a8d128a4e3ed2e865a548
                       --hash=sha256:70cf521f87e64f4dd2aeb87ced006dc98f621e2cdb38134fbcbcf6309fde6244
 django-extensions==1.2.5 --hash=sha256:c554b0ffac3bbdf922605195f346d472268a3704350ddf596cc1386bd747884a \
                          --hash=sha256:0bf28fbe0f93d78bf3b698609c60ed561f7646f8612d0b08dc1791917279e993
-django-filter==0.7 --hash=sha256:0f8fc4712f5b8da9a2d5776317d015395d58bbd94649951e35de7df2ccc69e21 \
-                   --hash=sha256:360d6aa7c07daf95f8260db9a9dc0e04727eb4e2e45bea4f01c2b45d4722ff38
+django-filter==2.4.0 --hash=sha256:84e9d5bb93f237e451db814ed422a3a625751cbc9968b484ecc74964a8696b06 \
+                   --hash=sha256:e00d32cebdb3d54273c48f4f878f898dced8d5dfaad009438fe61ebdf535ace1
 django-mozilla-product-details==0.8.2 --hash=sha256:339ddf521bb4787894aa8652a4255aafb886c37352118bd0acffa1bd6ddb1d4b
 django-multidb-router==0.5.1 --hash=sha256:00b34b24d4f32077bc53ebb940e9a50edbf086917d4b2eb6a399a05890463650 \
                              --hash=sha256:0b01fe3898ca682989bd455c9ce55ad4e23e70bbb33610d3bbba991c911f6334
